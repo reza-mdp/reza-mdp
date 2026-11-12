@@ -30,10 +30,13 @@
 
 **AI & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
 </p>
 
 **Backend & DevOps**
