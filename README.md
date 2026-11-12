@@ -2,8 +2,6 @@
 <h3 align="center">Full-Stack Developer & AI Engineer | From Idea to Product 🚀</h3>
 
 <p align="center">
-  <a href="mailto:rezamdp.pv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="tel:+989926135400"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
   <img src="https://img.shields.io/badge/Location-Yasuj,%20Iran-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </p>
 
