@@ -39,6 +39,8 @@
   <img src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
   <img src"https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff" />
+  <img src" https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" />
+ 
 </p>
 
 **Backend & DevOps**
@@ -48,7 +50,7 @@
   <img src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 
