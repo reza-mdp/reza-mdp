@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />
   <img src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />
-  [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)](#)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)
 </p>
 
 **Backend & DevOps**
